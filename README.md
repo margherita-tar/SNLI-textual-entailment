@@ -39,6 +39,7 @@ sentence2_binary_parse	Parse binarizzata dell'ipotesi.	( ( A person ) ( is ( tra
 captionID	ID della didascalia.	3416050480.jpg#4
 pairID	ID univoco per la coppia premessa-ipotesi.	3416050480.jpg#4r1n
 label1 ... label5	Etichette date da 5 annotatori.	La maggior parte sono NaN
+
 **2. SET-UP**
 
 installazione dell’ambiente pytorch lightening
